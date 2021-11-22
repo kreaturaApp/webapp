@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kreatura'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_099FEE752FED41FA92294AA3E2504B34 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9706863DF564307A871772871CC65F4 }}
           package: .
