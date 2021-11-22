@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "Kreatura Web App Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Wolfenden",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
